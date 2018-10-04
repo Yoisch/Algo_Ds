@@ -10,15 +10,15 @@ This repo helps you in competitive program as it contains many advanced algorith
  - binary search
  - Bubble Sort
  - Selection Sort
- - insertion sort
- - merge sort
- - quick sort
- - radix sort
+ - Insertion sort
+ - Merge sort
+ - Quick sort
+ - Radix sort
  - Dijkstra
  - Floyd Warshall
- - heap
- - queue
- - stack
+ - Heap
+ - Queue
+ - Stack
 
 ## How to contribute:
 
